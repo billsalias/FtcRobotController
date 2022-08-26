@@ -51,7 +51,6 @@ import com.qualcomm.robotcore.util.Range;
  */
 
 @TeleOp(name="Bill: Iterative OpMode", group="Iterative Opmode")
-//@Disabled
 public class BillOpMode_Iterative extends OpMode
 {
     // Declare OpMode members.
